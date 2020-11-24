@@ -15,13 +15,6 @@
     <enableCaseFeed>true</enableCaseFeed>
     <enableCollapseEmailThread>true</enableCollapseEmailThread>
     <enableEarlyEscalationRuleTriggers>false</enableEarlyEscalationRuleTriggers>
-    <enableEscalateQfiToCaseInternal>false</enableEscalateQfiToCaseInternal>
-    <enableMultiLangSolnSrchCSS>false</enableMultiLangSolnSrchCSS>
-    <enableMultiLangSolnSrchPKB>false</enableMultiLangSolnSrchPKB>
-    <enableMultiLangSolution>false</enableMultiLangSolution>
-    <enableSolutionCategory>false</enableSolutionCategory>
-    <enableSolutionInlineCategory>true</enableSolutionInlineCategory>
-    <enableSolutionShortSummary>true</enableSolutionShortSummary>
     <enableSuggestedSolutions>true</enableSuggestedSolutions>
     <escalateCaseBefore>false</escalateCaseBefore>
     <notifyContactOnCaseComment>false</notifyContactOnCaseComment>
@@ -30,7 +23,6 @@
     <notifyOwnerOnCaseOwnerChange>false</notifyOwnerOnCaseOwnerChange>
     <showEmailAttachmentsInCaseAttachmentsRL>true</showEmailAttachmentsInCaseAttachmentsRL>
     <useSystemEmailAddress>true</useSystemEmailAddress>
-    <visibleInCssCheckbox>false</visibleInCssCheckbox>
     <webToCase>
         <enableWebToCase>false</enableWebToCase>
     </webToCase>

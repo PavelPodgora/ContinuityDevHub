@@ -214,35 +214,11 @@
     </types>
     <types>
         <members>*</members>
-        <name>EclairGeoData</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>EmailServicesFunction</name>
     </types>
     <types>
         <members>*</members>
         <name>EmailTemplate</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EmbeddedServiceBranding</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EmbeddedServiceConfig</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EmbeddedServiceFlowConfig</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EmbeddedServiceMenuSettings</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>EntityImplements</name>
     </types>
     <types>
         <members>*</members>
@@ -359,10 +335,6 @@
     <types>
         <members>*</members>
         <name>MobileApplicationDetail</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>MutingPermissionSet</name>
     </types>
     <types>
         <members>*</members>

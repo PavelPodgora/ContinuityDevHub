@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="ContinuityDevHub" />
+          <option name="connectionName" value="pavel.podoprigora@continuity.com" />
           <option name="connectionType" value="OAUTH" />
           <option name="defaultModuleName" value="ContinuityDevHub" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/ContinuityDevHub/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/pavel_podoprigora_continuity_com/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>

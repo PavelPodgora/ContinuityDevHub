@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Literature Codes --></label>
+    <name>Literature_Codes__c</name>
+    <picklistValues>
+        <masterLabel>Code-1</masterLabel>
+        <translation><!-- Code-1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code-2</masterLabel>
+        <translation><!-- Code-2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code-3</masterLabel>
+        <translation><!-- Code-3 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code-4</masterLabel>
+        <translation><!-- Code-4 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
